@@ -1,0 +1,2 @@
+# thumbtype
+ThumbType typing game
